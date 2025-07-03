@@ -1,0 +1,40 @@
+# MYP Sağlık AI - Gerekli Kütüphaneler
+# Bu yazılım Mehmet Yay tarafından geliştirilmiştir. Tüm hakları saklıdır.
+
+# GUI Framework
+PyQt5==5.15.9
+
+# Data Processing
+pandas==2.0.3
+numpy==1.24.3
+openpyxl==3.1.2
+
+# Machine Learning
+scikit-learn==1.3.0
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# PDF Generation
+reportlab==4.0.4
+
+# Natural Language Processing
+nltk==3.8.1
+
+# Database
+# sqlite3 is included in Python standard library
+
+# Utilities
+pathlib2==2.3.7
+python-dateutil==2.8.2
+
+# Development and Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Optional: For enhanced functionality
+# Uncomment if needed
+# tensorflow==2.13.0
+# torch==2.0.1
+# transformers==4.30.2

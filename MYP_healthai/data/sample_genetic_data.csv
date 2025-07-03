@@ -1,0 +1,25 @@
+snp_id,chromosome,position,genotype,risk_allele,disease_association
+rs1234567,1,12345,AA,A,Diabetes
+rs2345678,2,23456,AG,G,Heart Disease
+rs3456789,3,34567,GG,G,Cancer
+rs4567890,4,45678,AT,T,Alzheimer
+rs5678901,5,56789,CC,C,Hypertension
+rs6789012,6,67890,TT,T,Depression
+rs7890123,7,78901,GA,A,Obesity
+rs8901234,8,89012,CT,C,Asthma
+rs9012345,9,90123,AC,A,Arthritis
+rs0123456,10,12346,GT,G,Migraine
+rs1234568,11,23457,AA,A,Diabetes
+rs2345679,12,34568,GG,G,Heart Disease
+rs3456780,13,45679,AT,T,Cancer
+rs4567891,14,56780,CC,C,Alzheimer
+rs5678902,15,67891,TT,T,Hypertension
+rs6789013,16,78902,GA,A,Depression
+rs7890124,17,89013,CT,C,Obesity
+rs8901235,18,90124,AC,A,Asthma
+rs9012346,19,12347,GT,G,Arthritis
+rs0123457,20,23458,AA,A,Migraine
+rs1234569,21,34569,GG,G,Diabetes
+rs2345680,22,45680,AT,T,Heart Disease
+rs3456781,X,56781,CC,C,Cancer
+rs4567892,Y,67892,TT,T,Alzheimer
